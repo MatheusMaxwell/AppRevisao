@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppRevisao</string>
+    <string name="title_activity_my_adapter">MyAdapter</string>
+    <string name="title">Carros</string>
+</resources>
